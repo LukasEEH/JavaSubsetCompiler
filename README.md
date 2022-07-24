@@ -1,4 +1,4 @@
-# Houseofcompiler
+# "HouseOfCompiler" project
 
 Mini-Java compiler construction project for the 4th semester of computer science at the Baden-Württemberg Cooperative State University in Stuttgart (Horb).
 
